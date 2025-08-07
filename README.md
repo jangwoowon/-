@@ -2,7 +2,7 @@
 
 # 유지보수 업체 리스트
 - "현대오일뱅크(주) OBP","oilbankbiz.net"
-"경희대학교  AI 비즈니스MBA","aimba.khu.ac.kr"
+- "경희대학교  AI 비즈니스MBA","aimba.khu.ac.kr"
 "현대오일뱅크(주) OBP","oilbankbiz.com"
 "피아트SID(주)","fiart.net"
 "(주)피아트코리아","fiart.co.kr"
