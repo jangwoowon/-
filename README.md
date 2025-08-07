@@ -1,513 +1,513 @@
 # Portfolio_jang
 
 # 유지보수 업체 리스트
-- "현대오일뱅크(주) OBP","oilbankbiz.net"
-- "경희대학교  AI 비즈니스MBA","aimba.khu.ac.kr"
-"현대오일뱅크(주) OBP","oilbankbiz.com"
-"피아트SID(주)","fiart.net"
-"(주)피아트코리아","fiart.co.kr"
-"(주)한방케어","hanbangcarecar.co.kr"
-"(주)에스에이치글로벌","www.shglobal.kr"
-"현대오일뱅크 엑스티어",""
-"영도한의원","ydh.kr"
-"공군인터넷전우회(로카피스)","rokafis.or.kr"
-"피아트SID(주)","ezgw.fiart.kr"
-"피아트SID(주)","ezhrms.fiart.kr"
-"신동아건설(주)","sdaconst.co.kr"
-"신동아건설(주)","familie.co.kr"
-"티엔에스슈퍼데크","tnssuperdeck.com"
-"정원한의원","stepdiet.net"
-"(주)에스엔유티씨엔티","sekmall.com"
-"(주)대지건설","daejienc.co.kr"
-"(주)온세메디칼","onsemedical.co.kr"
-"(주)온세메디칼","medtrics.co.kr"
-"(주)온세메디칼","heart.pe.kr"
-"한방당뇨네트워크","dangclinic.com"
-"(주)제이원모터스","hondacarsj-one.co.kr"
-"(주)디텍","incdt.net"
-"(주)한백산","siru.co.kr"
-"(주)한백산","sirusan.co.kr"
-"(주)한백산","jtrading.co.kr"
-"(주)한백산","hbsan.com"
-"(주)에이치티엠","like.htmco.kr/ijis"
-"지에스건설(주)","gongse.co.kr"
-"삼구건설(주)","39c.co.kr"
-"(주)에이치티엠","ho.htmco.kr"
-"노메스한의원","nomes.seeok.co.kr"
-"(주)하이큐시스템","hpsvc.kr"
-"강동미즈여성병원","gmh.or.kr"
-"(주)한국티이아이","teikorea.com"
-"(사)국제경영원","m.imi.or.kr"
-"랩케어진단검사의학과의원","labcare.kr"
-"(사)한국심리학회","koreanpsychology.kr"
-"경희대학교 글로벌미래교육원","kaca.khu.ac.kr"
-"(주)한국기독교정보","christland.net"
-"에쓰오일포인트몰(한백산)","soil.hbsan.com"
-"한중한의원","hjclinic.co.kr"
-"삼삼엔지니어링(주)","samsam.biz"
-"공군전우회","airforce.ne.kr"
-"고려대학교의료원 (부정맥)","ep.kumc.or.kr"
-"(주)씨엘뱅크","pluscar.clb.co.kr"
-"다앤미","55diet.com"
-"(주)일해토건","ilhae21.com"
-"(주)일해토건","erp.ilhae21.com"
-"(주)돌엔돌","doln.net"
-"애니콤정보통신(주)","anycomm.net"
-"고려콜렉션","korea-col.co.kr"
-"김주성한의원","kjsclinic.co.kr"
-"(주)텔레컨스","telecons.co.kr"
-"신진메딕스(주)","diakey.com"
-"(주)한국기독교정보","christinfo.co.kr"
-"서경정보통신","kt-megapass.net"
-"선주토건(주)","sunjoo21.co.kr"
-"(주)크레온유니티","icreon.co.kr"
-"(주)지투디앤씨","g2dnc.co.kr"
-"지엔지주식회사","gng-steel.co.kr"
-"(주)텔레컨스","mapzin.co.kr"
-"아산병원부정맥센터","amc-heartrhythm.com"
-"(주)한산기연","hansaneng.co.kr"
-"사단법인 항공우주정책연구원","kapi.or.kr"
-"(주)한백산","shop.oilbankbiz.com"
-"(주)커뮤니케이션소리","lucebr.co.kr"
-"(주)그로넷테크놀러지","giftzone.oilbankcard.com"
-"(주)이알씨라인","ercline.com"
-"(사)국제경영원","imi.or.kr"
-"올웨이즈앤애프앤비(주)","drstuarts.co.kr"
-"한상훈한의원","dr-han.co.kr"
-"사하한의원","sahaclinic.co.kr"
-"씨티에스엔지니어링(주)","ctseng.com"
-"(주)벨루션네트웍스","bellution.com"
-"보성건설(주)","bosung21.com"
-"가나철거공사","gn7904.com"
-"(사)한국가스연맹","kgu.or.kr"
-"평강한의원","daligra.com"
-"(주)이본종합건설","pajuhuton.com"
-"SAMKOO Vina","samkoo.fiart.kr"
-"평강한의원","55clinic.com"
-"(주)유니디아","unidia.co.kr"
-"인스유아이","dainmd.com"
-"강아지농장","skpet.co.kr"
-"(주)씨엘뱅크","clb.co.kr"
-"(주)유엔터스","uenters.com"
-"(사)국제경영원","newhrd.fiart.kr"
-"금강인프라건설(주)","kgcon.kr"
-"(주)한국이엔아이인터네셔널","messeworld.co.kr"
-"경희대학교  AI 비즈니스MBA","smartlab.khu.ac.kr"
-"(주)하이큐시스템","hiqsys.co.kr"
-"강북구청(생활지리정보)","wgis.gangbuk.seoul.kr"
-"평강한의원","seeok.co.kr"
-"미인나라","mi-in.co.kr"
-"(주)모노커뮤니케이션즈","mono.co.kr"
-"(주)이본종합건설","pajuhuton.co.kr"
-"피아트SID(주)","easyerp.kr"
-"(주)컴투프리테크","comtopritech.co.kr"
-"평강한의원","daligra.co.kr"
-"(주)이슈텔레콤","is-telecom.co.kr"
-"사하한의원","antipain.net"
-"(주)온세메디칼","clamed.co.kr"
-"선풍토건(주)","sunpoong.co.kr"
-"(주)커뮤니케이션소리","橈링스養閃餘.kr"
-"(주)하니에이엠씨","dogdr.co.kr"
-"(주)하니에이엠씨","animaltrap.co.kr"
-"현대네트웍스(주)","hdnetworks.co.kr"
-"고려대학교의료원(흉통)","koreaheart.co.kr"
-"(사)대한민국공군발전협회","arokaf.co.kr"
-"생명교회","lifegiving.or.kr"
-"(주)더블유오케이","romadalgujitour.com"
-"현대쉘베이스오일(주)","hsbaseoil.co.kr"
-"경희대학교 경영대학원","golf.khu.ac.kr"
-"공군사관학교총동창회","kafaaa.or.kr"
-"씨엠알기술연구원(주)","cmr.or.kr"
-"에쓰오일포인트몰(한백산)","mall.s-oilbonus.com"
-"한국김치플랜트산업 주식회사","kimchiplant.co.kr"
-"아남전자(주)","aname.co.kr"
-"아남전자(주)","anamglobal.com"
-"(주)케이티엘솔루션","kt-service.co.kr"
-"(주)포유","familie-gangdong.co.kr"
-"동광리어유한회사","dklear.com"
-"현대코스모㈜  서울지점","hyundaicosmo.com"
-"(주)고우넷","itsm.gownet.com"
-"정원한의원","stepdiet.co.kr"
-"디피알파트너(주)","dpr.or.kr"
-"동광기연(주)","dktec.co.kr"
-"(주)유니디아","summit-tech.co.kr"
-"(주)비와이넷플러스",""
-"(주)텔레컨스","rubie.co.kr"
-"한국석유화학협회","kpia.or.kr"
-"에쓰오일포인트몰(한백산)","intranet.hbsan.com"
-"피아트SID(주)","fiart.kr"
-"(주)양음스탁119","st119.com"
-"(주)미디어비엠코리아","gogobm.co.kr"
-"(주)미디어비엠코리아","gogobm.com"
-"(주)미디어비엠코리아","gogobm.net"
-"(주)미디어비엠코리아","gogobm.kr"
-"눈치코치","seeok.co.kr"
-"(주)대지건설","daejienc.com"
-"법무법인 온누리","onnurilaw.com"
-"사하한의원","energyclinic.kr"
-"미인나라","miinsoo.com"
-"피지피기술(주)","pgptech.co.kr"
-"영천레포츠(주)","www.exposkyfly.co.kr "
-"(주)세계로물산","plows.co.kr"
-"(주)한백산","intranet.hbsan.com"
-"해피텔레콤","happy-tel.com"
-"현대오일뱅크(주) 고객자문단","ob.oilbank.co.kr"
-"혜성씨앤씨(주)","hscnci.com "
-"눈치코치","s-ok.co.kr"
-"대명리프트","dmrental.co.kr"
-"월드비전 경기남지부","wvgyeonggi.or.kr"
-"강북구청(여성정보)","women.gangbuk.go.kr"
-"(주)하이큐시스템","hpzone.co.kr"
-"고대 심장혈관 연구소","cwri.co.kr"
-"(주)한백산","elohas.co.kr"
-"(주)커뮤니케이션소리","botanicparktower.co.kr"
-"(주)인휴","inhuedeco.co.kr"
-"지에이시(GAC) 닥터아토앤비","atopyskin114.com"
-"(주)트라이텍코리아","triteckorea.co.kr"
-"아남전자(주)","anamworldwide.com"
-"현대오일뱅크(주) 고객자문단","advice.oilbank.co.kr"
-"현대케미칼주식회사","www.hyundaichemical.co.kr"
-"노블레스싱글텔","nbtel.co.kr"
-"유벨라","ubella.co.kr"
-"유벨라","ubella.kr"
-"리코이엔씨주식회사","byuksong.co.kr "
-"(유)우양자원","wy-recycling.kr"
-"올웨이즈앤애프앤비(주)","drstuartshop.co.kr"
-"피아트SID(주)","sm.fiart.kr"
-"주식회사 이던인터내셔날","eathun.co.kr"
-"신동아건설(주)","m.sdacon.co.kr"
-"(주)지앤티글로벌","gntglobal.com"
-"(주)지투디앤씨","g2dnc.com"
-"(주)한백산","shop.hbsan.com"
-"현대오일뱅크 엑스티어",""
-"(주)에스엔유티씨엔티","eocrmall.com"
-"(주)포유","viewsky.co.kr"
-"주식회사 다우시스","polynaru.com"
-"현대오일뱅크(주) OBP","oilbank.co.kr "
-"경기대학교","kgumie.com"
-"(주)커뮤니케이션소리","healing-state.co.kr"
-"(주)커뮤니케이션소리","metrocity2.co.kr"
-"한국김치플랜트산업 주식회사","kimchimachine.co.kr"
-"동광기연(주)","dktec.co.kr"
-"한국RC협의회","krcc.or.kr"
-"한국RC협의회","hichem.or.kr"
-"군자출판사(주)","koonja.co.kr"
-"글로북스","gbooks.kr"
-"(주)쉬스케미칼컨설팅","sheschem.com"
-"(주)쉬스케미칼컨설팅","sheschem.co.kr"
-"(주)쉬스케미칼컨설팅","sheschem.kr"
-"커뮤니케이션즈 리치(주)","botanicparktower.co.kr"
-"디에스인터내셔널(주)","dsint.net"
-"(재)에이치디현대일퍼센트나눔재단 ","hdhyundainanum.or.kr"
-"(재)에이치디현대일퍼센트나눔재단 ","honor.hdhyundainanum.or.kr"
-"미인나라","m.mi-in.co.kr"
-"(주)한의바이오 쇼핑몰","dr-yakcho.co.kr"
-"신동아건설(주)","familieapt.co.kr"
-"웰리스다이어트(쑥나린)","ssuknarin.com"
-"(주)에스에이치글로벌","www.shglobal.co.kr"
-"탐나는아동복탑랜드상가운영회","seoultopland.co.kr"
-"고려대학교 지속가능원","sustainability.korea.ac.kr"
-"달빛소리 영농조합법인","mv01.co.kr"
-"명지전문대학 평생교육원","edu.mjc.ac.kr"
-"영천레포츠(주)","www.스氏閃豫라閃.kr"
-"(주)지투디앤씨","goldenfeetcnd.co.kr"
-"(주)한방케어","10care.co.kr"
-"(주)인터크레존","daelim-acrotel.co.kr"
-"현대오일터미널(주)","www.oilterminal.co.kr"
-"(주)디자인벽지","designwallpaper.co.kr"
-"보임서비스(주)","voimservice.com"
-"공군인터넷전우회(로카피스)","kafi.net"
-"(주)티에스비즈텍","tsbiz.net"
-"현대오일뱅크 엑스티어",""
-"현대쉘베이스오일(주)","hsbaseoil.com"
-"(주)세계로물산","isaacfood.co.kr"
-"(주)커뮤니케이션소리","wg3.co.kr"
-"(주)커뮤니케이션소리","biz.hausd.co.kr"
-"(주)덕신하우징","duckshin.com"
-"(사)한국의료행정실무협회","simsa.kr"
-"(주)쉬스케미칼컨설팅","sheschem.com"
-"경희대학교 경영대학원","asp.khu.ac.kr"
-"올웨이즈앤애프앤비(주)","drstuartshop.co.kr"
-"해피텔레콤","hms.happy-tel.com"
-"(주)포유","familie-terraza.com"
-"한국화학소재기술연구조합","chemtra.or.kr"
-"(사)국제경영원","m.newhrd.com"
-"리코이엔씨주식회사","reeco.co.kr"
-"한국당뇨협회","dangnyo.or.kr"
-"경희대학교 경영대학원","wmba.khu.ac.kr"
-"아남전자(주)","m.anamglobal.com"
-"(주)도담이앤씨종합건축사무소","dodam.fiart.kr"
-"당큐(한방당뇨)","dangclinic.co.kr"
-"에이치디현대오일뱅크(주) 서울지점","shop.oilbankbiz.com"
-"폰타나리조트","fontana-resort.co.kr"
-"폰타나리조트","fontana-resort.kr"
-"(주)한방케어","carecar.co.kr"
-"(주)에이치티엠","han.dreamit.kr"
-"아남전자(주)","m.aname.co.kr"
-"신동아건설(주)","m.familie.co.kr"
-"(주)덕신하우징","duckshinvina.com"
-"(주)덕신하우징(전자입찰)","duckshin.com"
-"경희대학교 총동문회(경영대학원)","kyungheemba.com"
-"금천수병원",""
-"(주)디에스엘","globaldsl.co.kr"
-"(주)커뮤니케이션소리","botanicparktower2.net"
-"경희대학교 경영대학원","khmbachina.khu.ac.kr"
-"(주)커뮤니케이션소리","familie-sp.co.kr/maintain"
-"경희대학교 경영대학원","mil.khu.ac.kr"
-"사과나무치과병원","appledental.kr/m"
-"사과나무치과병원","appledental.kr"
-"사과나무치과병원","miraeassetshopping.com"
-"사과나무치과병원","hanwhashopping.com"
-"(주)에스에이치글로벌","www.shglobal.kr"
-"(주)에스에이치글로벌","shglobal.co.kr"
-"경희대학교 경영대학원","ceo.khu.ac.kr"
-"(주)휴먼아이티",""
-"모새골","heart.pe.kr/_fiart"
-"(주)휴먼아이티",""
-"경희대학교 경영대학원","khmba.khu.ac.kr"
-"현대오일뱅크 엑스티어",""
-"(사)국제경영원","newhrd.com"
-"대신산업",""
-"경희대학교 국제대학원","gsp.khu.ac.kr"
-"(재)한국지식재산관리재단","kipf.or.kr"
-"이웃사랑임대사랑 사회적협동조합","이웃사랑임대사랑.kr"
-"주식회사 다우시스","dowsys.co.kr"
-"주식회사 다우시스","dowsys.net"
-"청풍인삼",""
-"온넷시스템","dainmd.com"
-"(주)디케씨코퍼레이션","dkcor.com"
-"현대오일뱅크 엑스티어",""
-"(주)커뮤니케이션소리","ryumatower.co.kr"
-"(주)커뮤니케이션소리","mabukutovill.co.kr"
-"(주)에이치티엠","dtsys.kr"
-"슈나이더일렉트릭코리아(주)","schneider-electric.co.kr"
-"슈나이더일렉트릭코리아(주)","legacy.schneider-electric.co.kr/m/"
-"한국화학섬유협회","kcfa.or.kr"
-"주식회사 제이앤피하우징랜드",""
-"(주)드림텔레시스","dtsys.kr"
-"피아트SID(주)","gw.fiart.kr"
-"슈나이더일렉트릭코리아(주)","schneider2 "
-"슈나이더일렉트릭코리아(주)","schneider4 "
-"슈나이더일렉트릭코리아(주)","eschneider "
-"신길5동지역주택조합","singil5.com"
-"슈나이더일렉트릭코리아(주)","service-frame-kr.se.com"
-"선풍토건(주)","erp.sunpoong.co.kr"
-"(유)우양자원","erp.wy-recycling.kr"
-"금강인프라건설(주)","erp.kgcon.kr"
-"한국제지연합회","paper.or.kr"
-"(주)커뮤니케이션소리","botanicparktower3.com"
-"JPC오토모티브","jwpre.com"
-"(주)한성리소스산업","erp.hs-recycling.com"
-"(사)국제경영원","imi.or.kr"
-"(사)국제경영원","imilec.or.kr"
-"서울대역편백숲1차지역주택조합설립추진위원회","healing-state.co.kr"
-"서울대역편백숲1차지역주택조합설립추진위원회","healingstate.co.kr"
-"(주)에너넷","iener.net"
-"삼성서울병원 순환기내과","arrhythmia.co.kr"
-"한국RC협의회","aprcc2019.com"
-"귀천 주식회사","1668-0000.co.kr"
-"제이와이커스텀(주)","jycustom.com"
-"(주)에이치티엠","internet-korea.kr"
-"(주)에이치티엠","lucky7.co"
-"한국건드릴(주)","gundrill.co.kr "
-"군자출판사(주)","smarteduk.co.kr"
-"군자출판사(주)","smarteduk.com"
-"경희대학교 글로벌미래교육원","cce.khu.ac.kr"
-"(재)한경협중소기업협력센터","www.fkilsc.or.kr"
-"경희대학교 일본로컬문화연구회","japanlocal.khu.ac.kr"
-"경희대학교 글로벌미래교육원","ccea.khu.ac.kr"
-"경희대학교 글로벌미래교육원","ccek.khu.ac.kr"
-"(주)한의바이오","hanibio.kr"
-"한의부항학회(한의바이오)","k-act.or.kr"
-"한국화학산업연합회","kocic.or.kr"
-"한국제지연합회","ilovepaper.org"
-"경희대학교 글로벌미래교육원","practicaldance.khu.ac.kr"
-"(주)한의바이오 쇼핑몰","hanibio.co.kr"
-"(주)한의바이오 쇼핑몰","dr-yakcho.com"
-"(주)한성로지스","hs-logis.co.kr"
-"(사)국제경영원","forum.imi.or.kr"
-"(주)온세메디칼","arrhythmia.co.kr"
-"눈치코치","m.seeok.co.kr"
-"경희대학교 글로벌미래교육원","klc.khu.ac.kr"
-"아이디비넷 주식회사","yesas.co.kr"
-"제이와이커스텀(주)","jymap.co.kr"
-"영도한의원","china.ydh.kr"
-"경희대학교 글로벌미래교육원","air.khu.ac.kr"
-"(사)한국의료행정실무협회","cyber.simsa.kr"
-"(주)온세메디칼","insui.co.kr"
-"(주)온세메디칼","ercline.com"
-"(주)온세메디칼","dainmd.com"
-"(주)온세메디칼","snamd.com"
-"(주)에스에이치글로벌","dktec.co.kr"
-"한국석유화학협회","ilovechem.kr"
-"귀천 주식회사","1668-0000.com"
-"귀천 주식회사","1668-0000.net"
-"㈜제이엔커뮤니케이션즈","ilovechem.kr"
-"(주)온세메디칼","saeronnetworks.com"
-"㈜제이엔커뮤니케이션즈","ilovechem.co.kr"
-"한국석유화학협회","ilovechem.co.kr"
-"(주)디앤에프","decknfuture.com"
-"경희대학교 글로벌미래교육원","beauty.khu.ac.kr"
-"(사)한국광고주협회","kaa.or.kr"
-"경희대학교 글로벌미래교육원","mamp.khu.ac.kr "
-"(주)대지건설","erp.daejienc.com"
-"(사)국제경영원","online.imi.or.kr"
-"(사)국제경영원","newhrd.net"
-"고려대학교 경영대학","biz.korea.ac.kr"
-"동화예건(주)","dw.inhuedeco.co.kr"
-"역북지역주택조합","yukbuk.co.kr"
-"재단법인 무봉","mubong.org"
-"고려대학교 경영대학","biz.korea.ac.kr/bk21four/main/main"
-"한국원자력연구원(RCARO)","e-campus.rcaro.org/"
-"하니동물병원","animaltrap.co.kr"
-"하니동물병원","dogdr.co.kr"
-"주식회사 비앤드브이","multiflooring.com"
-"신산SS토건(주)","sinsan.co.kr"
-"경희대학교 경영대학원","emba.khu.ac.kr"
-"(주)신흥건설","shin-heung.com"
-"(주)신흥건설","shdnc.co.kr"
-"새론네트웍스","saeronnetworks.com"
-"클라메드","clamed.co.kr"
-"고려대학교 아세아문제연구원","asiaticresearch.org"
-"고려대학교 반도체공학과","se.korea.ac.kr"
-"피아트SID(주)","message.fiart.kr"
-"에쓰오일파트너몰(한백산)","s-partner.s-oil.com"
-"(주)네트인","netin.kr"
-"GS파트너몰(한백산)","with-partnermall.com"
-"한신자원산업","h-shin.kr "
-"경희대학교 빅데이터응용학과","bigdata21.khu.ac.kr"
-"(사)국제경영원","member.imi.or.kr"
-"(주)버킷인터내셔날","bucketint.co.kr"
-"고려대학교 건축학과 교우회","kua1964.com"
-"고려대학교 경영대학","kubsrankings.korea.ac.kr"
-"고려대학교 경영대학","www.s3-asiamba.com"
-"고려대학교 VLSISP Lab.","vlsisp.korea.ac.kr"
-"고려대학교산학협력단","kukistschool.korea.ac.kr"
-"(주)시루산","siru.co.kr "
-"경희대학교 경영대학원","wamp.khu.ac.kr"
-"고려대학교 전기전자공학부","ee.korea.ac.kr"
-"경주시장애인체육회","gyeongjusad.or.kr"
-"고려대학교 차세대통신학과","ce.korea.ac.kr"
-"유한메카트로닉스(주)","mall.yu-han.co.kr"
-"(주)이솝","ysop.co.kr"
-"(주)이솝","mall.ysop.co.kr"
-"삼주공인노무사사무소","sjoffice.co.kr"
-"고려대학교 대학원혁신본부","graduate.korea.ac.kr"
-"대한제지(주)","www.daehanpaper.com"
-"군자출판사(주)","www.medicalpictures.co.kr"
-"군자출판사(주)","www.mediteriumart.com"
-"군자출판사(주)","www.mediteriumart.co.kr"
-"(주)텔레컨스","mcon-service.azurewebsites.net"
-"(주)스펙트럼케이유","spectrumku.com"
-"(사)한국심리학회","koreanpsychology.or.kr"
-"(주)파블로항공","www.pabloair.com"
-"성우안보전략연구원","www.starflag.or.kr"
-"경희대학교 (AMP)","ceo.khu.ac.kr"
-"(주)세문","semun.co.kr"
-"고려대학교 기업산학연협력센터","uric.korea.ac.kr"
-"(주)하나일렉트릭","www.hnec.co.kr"
-"고려대학교 건축학과 교우회","kua1964.kr"
-"안양대학교 평생교육원","ay.fiart.kr"
-"(사)국제경영원","newhrd.net"
-"(주)에스에이치글로벌","hrms.shglobal.kr"
-"고려대학교 경영대학","biz.korea.ac.kr/cdc/main/main.html"
-"서울대학교 SSBT (차세대이차전지)","ssbt.snu.ac.kr"
-"성준전기(주)","sungjoon.co.kr"
-"(사)한국의료행정실무협회","simsa.fiart.kr"
-"(주)인휴","ih.inhuedeco.co.kr"
-"(주)하나일렉트릭","mall.hnec.co.kr"
-"한국과학기술출판협회","kstpa.or.kr"
-"고려대학교 KU-KIST융합대학원","kukistschool.korea.ac.kr"
-"한국출판인산악회","kpmclub.com"
-"더푸짐주식회사","deopujim.com"
-"(사)성무안보연구소","www.srins.re.kr"
-"아티크스튜디오 주식회사","artiquestudio.co.kr"
-"롯데베르살리스 엘라스토머스㈜","lvelastomers.com"
-"경희대학교 빅데이터응용학과","bk21bigdata.khu.ac.kr"
-"명지전문대학 조기취업형계약학과","early.mjc.ac.kr"
-"고려대학교 인권·성평등센터","humanrights.korea.ac.kr"
-"성준전기(주)","mall.sungjoon.co.kr "
-"명지전문대학 평생교육원","sv80.fiart.kr"
-"한국과학기술출판협회","mall.kstpa.or.kr "
-"한국소비자광고심리학회","kscap.co.kr"
-"티케이엘리베이터코리아(주)-IGAD","igad-dev.tkek.co.kr"
-"티케이엘리베이터코리아(주)-IGAD","rigad-dev.tkek.co.kr"
-"(주)에이치티엠","internet-korea.kr/m/main/main.html"
-"에이치디현대오일뱅크(주) 서울지점","oilbank.fiart.net"
-"고려대학교 지속가능원","kusr.korea.ac.kr"
-"다스코리아(주)","daskorea.co.kr"
-"디에스인터내셔널(주)","duckshinint.com"
-"명지전문대학 MRCC","mrcc.mjc.ac.kr"
-"명지전문대학 MRCC","mrcc.fiart.net"
-"고려대학교 공과대학","eng.korea.ac.kr"
-"(주)쉬스케미칼컨설팅","loa.sheschem.com"
-"명지전문대학 평생교육원","baseball.mjc.ac.kr"
-"고려대학교의료원 (부정맥)","korea-heartrhythm.com"
-"다스코리아(주)","110.45.213.175"
-"경희대학교 총동문회(경영대학원)",""
-"공군인터넷전우회(로카피스)","kafi.fiart.net"
-"고려대학교 미디어대학","mediacom.korea.ac.kr"
-"서울시광역심리지원센터","koreanpsychology.or.kr/mind/introduction.html"
-"고려대학교 경영대학","esg.korea.ac.kr"
-"고려대학교 경영대학","www.aicg.org"
-"현대네트웍스(주)","flucare.co.kr"
-"(주)에스엔유티씨엔티","snutcnt.com/"
-"(주)엘제이하이테크","lj-hitech.co.kr"
-"(주)현대리바트","https://shop.oilbankbiz.com/"
-"고려대학교 지속가능원","kusso.korea.ac.kr "
-"(재)한국문화예술진흥재단","koracf.or.kr"
-"(주)에스엔유티씨엔티","sekmall.co.kr"
-"고려대학교 기계공학부","me.korea.ac.kr"
-"서울대학교 Advanced Energy Materials Lab","energylab.snu.ac.kr"
-"서울대학교 SSRT","ssrt.snu.ac.kr"
-"(주)덕신하우징","dukshinepc.com"
-"고려대학교의료원","korea-heartrhythm.com"
-"(주)비포시스템","bfsystem.kr"
-"티케이엘리베이터코리아(주)-TIS","customer.tkek.co.kr"
-"(주)덕신하우징(전자입찰)","dukshinepc.com"
-"(사)한국경영과학회","komsri.kr"
-"(사)한국경영과학회","komsri.co.kr"
-"(사)한국경영과학회","komsri.or.kr"
-"(주)비포시스템","bfsystem.kr/BIMS"
-"서울대학교 Advanced Energy Materials Lab",""
-"군자출판사(주)","smarteduk.fiart.net"
-"경희대학교 경영연구원","mri.khu.ac.kr"
-"주식회사 비앤드브이","bnv.fiart.net"
-"고려대학교 건축학과","archi.korea.ac.kr"
-"(사)로카피스생활체육회","rokafis.com"
-"(주)비포시스템","bfsystem.kr/KFCC/login.htm"
-"(주)비포시스템","be4.co.kr"
-"(재)에이치디현대희망재단","hdhyundaihope.org"
-"(주)모노커뮤니케이션즈",""
-"고려대학교 보건과학대학","chs.korea.ac.kr"
-"고려대학교 보건과학대학","bmeng.korea.ac.kr"
-"고려대학교 보건과학대학","bsm.korea.ac.kr"
-"고려대학교 보건과학대학","hes.korea.ac.kr"
-"고려대학교 보건과학대학","hpm.korea.ac.kr"
-"더푸짐주식회사","inifood.co.kr"
-"(주)비포시스템","mgit.co.kr"
-"고려대학교 건축학과",""
-"명지전문대학 평생교육원","early.mjc.ac.kr"
-"명지전문대학 야구심판양성과정 ","baseball.mjc.ac.kr"
-"주식회사 비앤드브이","floorcovering.co.kr "
-"서울시광역심리지원센터","mt.koreanpsychology.or.kr"
-"(주)정안건설","jaenc.kr"
-"고려대학교 공학대학원","enggra.korea.ac.kr"
-"고려대학교 공학대학원","ceo.korea.ac.kr"
-"고려대학교 의과대학","kumstp.korea.ac.kr"
-"고려대학교 MRC 마이오카인 융합연구센터","myokinemrc.korea.ac.kr"
-"경희대학교 경영연구원","mri.fiart.net"
-"명지전문대학 조기취업형계약학과","early.fiart.net"
-"고려대학교 미디어대학","mediacom.fiart.net"
-"(주)덕신이피씨","duckshin.com"
-"주식회사 비앤드브이","flooringcatalogue.com"
-"(사)한국심리학회 재난심리위원회","dp.koreanpsychology.or.kr"
-"(주)덕신하우징","dukshinhousing.com"
-"고려대학교 의과대학","kumstp.fiart.net"
-"(주)에이엔케이이노베이션","ankinnovation.com"
-"(주)정안건설","erp.jaenc.kr"
-"(주)덕신이피씨","duckshin.com"
-"(주)덕신이피씨","duckshinepc.com"
-"(주)덕신이피씨","dukshinepc.com"
-"티케이엘리베이터코리아(주)-TIS","igad-dev.tkek.co.kr"
-"(사)한국의료행정실무협회","simsa.fiart.net"
+- 현대오일뱅크(주) OBP,oilbankbiz.net
+- 경희대학교  AI 비즈니스MBA,aimba.khu.ac.kr
+- 현대오일뱅크(주) OBP,oilbankbiz.com
+- 피아트SID(주),fiart.net
+- (주)피아트코리아,fiart.co.kr
+- (주)한방케어,hanbangcarecar.co.kr
+- (주)에스에이치글로벌,www.shglobal.kr
+- 현대오일뱅크 엑스티어,
+- 영도한의원,ydh.kr
+- 공군인터넷전우회(로카피스),rokafis.or.kr
+- 피아트SID(주),ezgw.fiart.kr
+- 피아트SID(주),ezhrms.fiart.kr
+- 신동아건설(주),sdaconst.co.kr
+- 신동아건설(주),familie.co.kr
+- 티엔에스슈퍼데크,tnssuperdeck.com
+- 정원한의원,stepdiet.net
+- (주)에스엔유티씨엔티,sekmall.com
+- (주)대지건설,daejienc.co.kr
+- (주)온세메디칼,onsemedical.co.kr
+- (주)온세메디칼,medtrics.co.kr
+- (주)온세메디칼,heart.pe.kr
+- 한방당뇨네트워크,dangclinic.com
+- (주)제이원모터스,hondacarsj-one.co.kr
+- (주)디텍,incdt.net
+- (주)한백산,siru.co.kr
+- (주)한백산,sirusan.co.kr
+- (주)한백산,jtrading.co.kr
+- (주)한백산,hbsan.com
+- (주)에이치티엠,like.htmco.kr/ijis
+- 지에스건설(주),gongse.co.kr
+- 삼구건설(주),39c.co.kr
+- (주)에이치티엠,ho.htmco.kr
+- 노메스한의원,nomes.seeok.co.kr
+- (주)하이큐시스템,hpsvc.kr
+- 강동미즈여성병원,gmh.or.kr
+- (주)한국티이아이,teikorea.com
+- (사)국제경영원,m.imi.or.kr
+- 랩케어진단검사의학과의원,labcare.kr
+- (사)한국심리학회,koreanpsychology.kr
+- 경희대학교 글로벌미래교육원,kaca.khu.ac.kr
+- (주)한국기독교정보,christland.net
+- 에쓰오일포인트몰(한백산),soil.hbsan.com
+- 한중한의원,hjclinic.co.kr
+- 삼삼엔지니어링(주),samsam.biz
+- 공군전우회,airforce.ne.kr
+- 고려대학교의료원 (부정맥),ep.kumc.or.kr
+- (주)씨엘뱅크,pluscar.clb.co.kr
+- 다앤미,55diet.com
+- (주)일해토건,ilhae21.com
+- (주)일해토건,erp.ilhae21.com
+- (주)돌엔돌,doln.net
+- 애니콤정보통신(주),anycomm.net
+- 고려콜렉션,korea-col.co.kr
+- 김주성한의원,kjsclinic.co.kr
+- (주)텔레컨스,telecons.co.kr
+- 신진메딕스(주),diakey.com
+- (주)한국기독교정보,christinfo.co.kr
+- 서경정보통신,kt-megapass.net
+- 선주토건(주),sunjoo21.co.kr
+- (주)크레온유니티,icreon.co.kr
+- (주)지투디앤씨,g2dnc.co.kr
+- 지엔지주식회사,gng-steel.co.kr
+- (주)텔레컨스,mapzin.co.kr
+- 아산병원부정맥센터,amc-heartrhythm.com
+- (주)한산기연,hansaneng.co.kr
+- 사단법인 항공우주정책연구원,kapi.or.kr
+- (주)한백산,shop.oilbankbiz.com
+- (주)커뮤니케이션소리,lucebr.co.kr
+- (주)그로넷테크놀러지,giftzone.oilbankcard.com
+- (주)이알씨라인,ercline.com
+- (사)국제경영원,imi.or.kr
+- 올웨이즈앤애프앤비(주),drstuarts.co.kr
+- 한상훈한의원,dr-han.co.kr
+- 사하한의원,sahaclinic.co.kr
+- 씨티에스엔지니어링(주),ctseng.com
+- (주)벨루션네트웍스,bellution.com
+- 보성건설(주),bosung21.com
+- 가나철거공사,gn7904.com
+- (사)한국가스연맹,kgu.or.kr
+- 평강한의원,daligra.com
+- (주)이본종합건설,pajuhuton.com
+- SAMKOO Vina,samkoo.fiart.kr
+- 평강한의원,55clinic.com
+- (주)유니디아,unidia.co.kr
+- 인스유아이,dainmd.com
+- 강아지농장,skpet.co.kr
+- (주)씨엘뱅크,clb.co.kr
+- (주)유엔터스,uenters.com
+- (사)국제경영원,newhrd.fiart.kr
+- 금강인프라건설(주),kgcon.kr
+- (주)한국이엔아이인터네셔널,messeworld.co.kr
+- 경희대학교  AI 비즈니스MBA,smartlab.khu.ac.kr
+- (주)하이큐시스템,hiqsys.co.kr
+- 강북구청(생활지리정보),wgis.gangbuk.seoul.kr
+- 평강한의원,seeok.co.kr
+- 미인나라,mi-in.co.kr
+- (주)모노커뮤니케이션즈,mono.co.kr
+- (주)이본종합건설,pajuhuton.co.kr
+- 피아트SID(주),easyerp.kr
+- (주)컴투프리테크,comtopritech.co.kr
+- 평강한의원,daligra.co.kr
+- (주)이슈텔레콤,is-telecom.co.kr
+- 사하한의원,antipain.net
+- (주)온세메디칼,clamed.co.kr
+- 선풍토건(주),sunpoong.co.kr
+- (주)커뮤니케이션소리,橈링스養閃餘.kr
+- (주)하니에이엠씨,dogdr.co.kr
+- (주)하니에이엠씨,animaltrap.co.kr
+- 현대네트웍스(주),hdnetworks.co.kr
+- 고려대학교의료원(흉통),koreaheart.co.kr
+- (사)대한민국공군발전협회,arokaf.co.kr
+- 생명교회,lifegiving.or.kr
+- (주)더블유오케이,romadalgujitour.com
+- 현대쉘베이스오일(주),hsbaseoil.co.kr
+- 경희대학교 경영대학원,golf.khu.ac.kr
+- 공군사관학교총동창회,kafaaa.or.kr
+- 씨엠알기술연구원(주),cmr.or.kr
+- 에쓰오일포인트몰(한백산),mall.s-oilbonus.com
+- 한국김치플랜트산업 주식회사,kimchiplant.co.kr
+- 아남전자(주),aname.co.kr
+- 아남전자(주),anamglobal.com
+- (주)케이티엘솔루션,kt-service.co.kr
+- (주)포유,familie-gangdong.co.kr
+- 동광리어유한회사,dklear.com
+- 현대코스모㈜  서울지점,hyundaicosmo.com
+- (주)고우넷,itsm.gownet.com
+- 정원한의원,stepdiet.co.kr
+- 디피알파트너(주),dpr.or.kr
+- 동광기연(주),dktec.co.kr
+- (주)유니디아,summit-tech.co.kr
+- (주)비와이넷플러스,
+- (주)텔레컨스,rubie.co.kr
+- 한국석유화학협회,kpia.or.kr
+- 에쓰오일포인트몰(한백산),intranet.hbsan.com
+- 피아트SID(주),fiart.kr
+- (주)양음스탁119,st119.com
+- (주)미디어비엠코리아,gogobm.co.kr
+- (주)미디어비엠코리아,gogobm.com
+- (주)미디어비엠코리아,gogobm.net
+- (주)미디어비엠코리아,gogobm.kr
+- 눈치코치,seeok.co.kr
+- (주)대지건설,daejienc.com
+- 법무법인 온누리,onnurilaw.com
+- 사하한의원,energyclinic.kr
+- 미인나라,miinsoo.com
+- 피지피기술(주),pgptech.co.kr
+- 영천레포츠(주),www.exposkyfly.co.kr 
+- (주)세계로물산,plows.co.kr
+- (주)한백산,intranet.hbsan.com
+- 해피텔레콤,happy-tel.com
+- 현대오일뱅크(주) 고객자문단,ob.oilbank.co.kr
+- 혜성씨앤씨(주),hscnci.com 
+- 눈치코치,s-ok.co.kr
+- 대명리프트,dmrental.co.kr
+- 월드비전 경기남지부,wvgyeonggi.or.kr
+- 강북구청(여성정보),women.gangbuk.go.kr
+- (주)하이큐시스템,hpzone.co.kr
+- 고대 심장혈관 연구소,cwri.co.kr
+- (주)한백산,elohas.co.kr
+- (주)커뮤니케이션소리,botanicparktower.co.kr
+- (주)인휴,inhuedeco.co.kr
+- 지에이시(GAC) 닥터아토앤비,atopyskin114.com
+- (주)트라이텍코리아,triteckorea.co.kr
+- 아남전자(주),anamworldwide.com
+- 현대오일뱅크(주) 고객자문단,advice.oilbank.co.kr
+- 현대케미칼주식회사,www.hyundaichemical.co.kr
+- 노블레스싱글텔,nbtel.co.kr
+- 유벨라,ubella.co.kr
+- 유벨라,ubella.kr
+- 리코이엔씨주식회사,byuksong.co.kr 
+- (유)우양자원,wy-recycling.kr
+- 올웨이즈앤애프앤비(주),drstuartshop.co.kr
+- 피아트SID(주),sm.fiart.kr
+- 주식회사 이던인터내셔날,eathun.co.kr
+- 신동아건설(주),m.sdacon.co.kr
+- (주)지앤티글로벌,gntglobal.com
+- (주)지투디앤씨,g2dnc.com
+- (주)한백산,shop.hbsan.com
+- 현대오일뱅크 엑스티어,
+- (주)에스엔유티씨엔티,eocrmall.com
+- (주)포유,viewsky.co.kr
+- 주식회사 다우시스,polynaru.com
+- 현대오일뱅크(주) OBP,oilbank.co.kr 
+- 경기대학교,kgumie.com
+- (주)커뮤니케이션소리,healing-state.co.kr
+- (주)커뮤니케이션소리,metrocity2.co.kr
+- 한국김치플랜트산업 주식회사,kimchimachine.co.kr
+- 동광기연(주),dktec.co.kr
+- 한국RC협의회,krcc.or.kr
+- 한국RC협의회,hichem.or.kr
+- 군자출판사(주),koonja.co.kr
+- 글로북스,gbooks.kr
+- (주)쉬스케미칼컨설팅,sheschem.com
+- (주)쉬스케미칼컨설팅,sheschem.co.kr
+- (주)쉬스케미칼컨설팅,sheschem.kr
+- 커뮤니케이션즈 리치(주),botanicparktower.co.kr
+- 디에스인터내셔널(주),dsint.net
+- (재)에이치디현대일퍼센트나눔재단 ,hdhyundainanum.or.kr
+- (재)에이치디현대일퍼센트나눔재단 ,honor.hdhyundainanum.or.kr
+- 미인나라,m.mi-in.co.kr
+- (주)한의바이오 쇼핑몰,dr-yakcho.co.kr
+- 신동아건설(주),familieapt.co.kr
+- 웰리스다이어트(쑥나린),ssuknarin.com
+- (주)에스에이치글로벌,www.shglobal.co.kr
+- 탐나는아동복탑랜드상가운영회,seoultopland.co.kr
+- 고려대학교 지속가능원,sustainability.korea.ac.kr
+- 달빛소리 영농조합법인,mv01.co.kr
+- 명지전문대학 평생교육원,edu.mjc.ac.kr
+- 영천레포츠(주),www.스氏閃豫라閃.kr
+- (주)지투디앤씨,goldenfeetcnd.co.kr
+- (주)한방케어,10care.co.kr
+- (주)인터크레존,daelim-acrotel.co.kr
+- 현대오일터미널(주),www.oilterminal.co.kr
+- (주)디자인벽지,designwallpaper.co.kr
+- 보임서비스(주),voimservice.com
+- 공군인터넷전우회(로카피스),kafi.net
+- (주)티에스비즈텍,tsbiz.net
+- 현대오일뱅크 엑스티어,
+- 현대쉘베이스오일(주),hsbaseoil.com
+- (주)세계로물산,isaacfood.co.kr
+- (주)커뮤니케이션소리,wg3.co.kr
+- (주)커뮤니케이션소리,biz.hausd.co.kr
+- (주)덕신하우징,duckshin.com
+- (사)한국의료행정실무협회,simsa.kr
+- (주)쉬스케미칼컨설팅,sheschem.com
+- 경희대학교 경영대학원,asp.khu.ac.kr
+- 올웨이즈앤애프앤비(주),drstuartshop.co.kr
+- 해피텔레콤,hms.happy-tel.com
+- (주)포유,familie-terraza.com
+- 한국화학소재기술연구조합,chemtra.or.kr
+- (사)국제경영원,m.newhrd.com
+- 리코이엔씨주식회사,reeco.co.kr
+- 한국당뇨협회,dangnyo.or.kr
+- 경희대학교 경영대학원,wmba.khu.ac.kr
+- 아남전자(주),m.anamglobal.com
+- (주)도담이앤씨종합건축사무소,dodam.fiart.kr
+- 당큐(한방당뇨),dangclinic.co.kr
+- 에이치디현대오일뱅크(주) 서울지점,shop.oilbankbiz.com
+- 폰타나리조트,fontana-resort.co.kr
+- 폰타나리조트,fontana-resort.kr
+- (주)한방케어,carecar.co.kr
+- (주)에이치티엠,han.dreamit.kr
+- 아남전자(주),m.aname.co.kr
+- 신동아건설(주),m.familie.co.kr
+- (주)덕신하우징,duckshinvina.com
+- (주)덕신하우징(전자입찰),duckshin.com
+- 경희대학교 총동문회(경영대학원),kyungheemba.com
+- 금천수병원,
+- (주)디에스엘,globaldsl.co.kr
+- (주)커뮤니케이션소리,botanicparktower2.net
+- 경희대학교 경영대학원,khmbachina.khu.ac.kr
+- (주)커뮤니케이션소리,familie-sp.co.kr/maintain
+- 경희대학교 경영대학원,mil.khu.ac.kr
+- 사과나무치과병원,appledental.kr/m
+- 사과나무치과병원,appledental.kr
+- 사과나무치과병원,miraeassetshopping.com
+- 사과나무치과병원,hanwhashopping.com
+- (주)에스에이치글로벌,www.shglobal.kr
+- (주)에스에이치글로벌,shglobal.co.kr
+- 경희대학교 경영대학원,ceo.khu.ac.kr
+- (주)휴먼아이티,
+- 모새골,heart.pe.kr/_fiart
+- (주)휴먼아이티,
+- 경희대학교 경영대학원,khmba.khu.ac.kr
+- 현대오일뱅크 엑스티어,
+- (사)국제경영원,newhrd.com
+- 대신산업,
+- 경희대학교 국제대학원,gsp.khu.ac.kr
+- (재)한국지식재산관리재단,kipf.or.kr
+- 이웃사랑임대사랑 사회적협동조합,이웃사랑임대사랑.kr
+- 주식회사 다우시스,dowsys.co.kr
+- 주식회사 다우시스,dowsys.net
+- 청풍인삼,
+- 온넷시스템,dainmd.com
+- (주)디케씨코퍼레이션,dkcor.com
+- 현대오일뱅크 엑스티어,
+- (주)커뮤니케이션소리,ryumatower.co.kr
+- (주)커뮤니케이션소리,mabukutovill.co.kr
+- (주)에이치티엠,dtsys.kr
+- 슈나이더일렉트릭코리아(주),schneider-electric.co.kr
+- 슈나이더일렉트릭코리아(주),legacy.schneider-electric.co.kr/m/
+- 한국화학섬유협회,kcfa.or.kr
+- 주식회사 제이앤피하우징랜드,
+- (주)드림텔레시스,dtsys.kr
+- 피아트SID(주),gw.fiart.kr
+- 슈나이더일렉트릭코리아(주),schneider2 
+- 슈나이더일렉트릭코리아(주),schneider4 
+- 슈나이더일렉트릭코리아(주),eschneider 
+- 신길5동지역주택조합,singil5.com
+- 슈나이더일렉트릭코리아(주),service-frame-kr.se.com
+- 선풍토건(주),erp.sunpoong.co.kr
+- (유)우양자원,erp.wy-recycling.kr
+- 금강인프라건설(주),erp.kgcon.kr
+- 한국제지연합회,paper.or.kr
+- (주)커뮤니케이션소리,botanicparktower3.com
+- JPC오토모티브,jwpre.com
+- (주)한성리소스산업,erp.hs-recycling.com
+- (사)국제경영원,imi.or.kr
+- (사)국제경영원,imilec.or.kr
+- 서울대역편백숲1차지역주택조합설립추진위원회,healing-state.co.kr
+- 서울대역편백숲1차지역주택조합설립추진위원회,healingstate.co.kr
+- (주)에너넷,iener.net
+- 삼성서울병원 순환기내과,arrhythmia.co.kr
+- 한국RC협의회,aprcc2019.com
+- 귀천 주식회사,1668-0000.co.kr
+- 제이와이커스텀(주),jycustom.com
+- (주)에이치티엠,internet-korea.kr
+- (주)에이치티엠,lucky7.co
+- 한국건드릴(주),gundrill.co.kr 
+- 군자출판사(주),smarteduk.co.kr
+- 군자출판사(주),smarteduk.com
+- 경희대학교 글로벌미래교육원,cce.khu.ac.kr
+- (재)한경협중소기업협력센터,www.fkilsc.or.kr
+- 경희대학교 일본로컬문화연구회,japanlocal.khu.ac.kr
+- 경희대학교 글로벌미래교육원,ccea.khu.ac.kr
+- 경희대학교 글로벌미래교육원,ccek.khu.ac.kr
+- (주)한의바이오,hanibio.kr
+- 한의부항학회(한의바이오),k-act.or.kr
+- 한국화학산업연합회,kocic.or.kr
+- 한국제지연합회,ilovepaper.org
+- 경희대학교 글로벌미래교육원,practicaldance.khu.ac.kr
+- (주)한의바이오 쇼핑몰,hanibio.co.kr
+- (주)한의바이오 쇼핑몰,dr-yakcho.com
+- (주)한성로지스,hs-logis.co.kr
+- (사)국제경영원,forum.imi.or.kr
+- (주)온세메디칼,arrhythmia.co.kr
+- 눈치코치,m.seeok.co.kr
+- 경희대학교 글로벌미래교육원,klc.khu.ac.kr
+- 아이디비넷 주식회사,yesas.co.kr
+- 제이와이커스텀(주),jymap.co.kr
+- 영도한의원,china.ydh.kr
+- 경희대학교 글로벌미래교육원,air.khu.ac.kr
+- (사)한국의료행정실무협회,cyber.simsa.kr
+- (주)온세메디칼,insui.co.kr
+- (주)온세메디칼,ercline.com
+- (주)온세메디칼,dainmd.com
+- (주)온세메디칼,snamd.com
+- (주)에스에이치글로벌,dktec.co.kr
+- 한국석유화학협회,ilovechem.kr
+- 귀천 주식회사,1668-0000.com
+- 귀천 주식회사,1668-0000.net
+- ㈜제이엔커뮤니케이션즈,ilovechem.kr
+- (주)온세메디칼,saeronnetworks.com
+- ㈜제이엔커뮤니케이션즈,ilovechem.co.kr
+- 한국석유화학협회,ilovechem.co.kr
+- (주)디앤에프,decknfuture.com
+- 경희대학교 글로벌미래교육원,beauty.khu.ac.kr
+- (사)한국광고주협회,kaa.or.kr
+- 경희대학교 글로벌미래교육원,mamp.khu.ac.kr 
+- (주)대지건설,erp.daejienc.com
+- (사)국제경영원,online.imi.or.kr
+- (사)국제경영원,newhrd.net
+- 고려대학교 경영대학,biz.korea.ac.kr
+- 동화예건(주),dw.inhuedeco.co.kr
+- 역북지역주택조합,yukbuk.co.kr
+- 재단법인 무봉,mubong.org
+- 고려대학교 경영대학,biz.korea.ac.kr/bk21four/main/main
+- 한국원자력연구원(RCARO),e-campus.rcaro.org/
+- 하니동물병원,animaltrap.co.kr
+- 하니동물병원,dogdr.co.kr
+- 주식회사 비앤드브이,multiflooring.com
+- 신산SS토건(주),sinsan.co.kr
+- 경희대학교 경영대학원,emba.khu.ac.kr
+- (주)신흥건설,shin-heung.com
+- (주)신흥건설,shdnc.co.kr
+- 새론네트웍스,saeronnetworks.com
+- 클라메드,clamed.co.kr
+- 고려대학교 아세아문제연구원,asiaticresearch.org
+- 고려대학교 반도체공학과,se.korea.ac.kr
+- 피아트SID(주),message.fiart.kr
+- 에쓰오일파트너몰(한백산),s-partner.s-oil.com
+- (주)네트인,netin.kr
+- GS파트너몰(한백산),with-partnermall.com
+- 한신자원산업,h-shin.kr 
+- 경희대학교 빅데이터응용학과,bigdata21.khu.ac.kr
+- (사)국제경영원,member.imi.or.kr
+- (주)버킷인터내셔날,bucketint.co.kr
+- 고려대학교 건축학과 교우회,kua1964.com
+- 고려대학교 경영대학,kubsrankings.korea.ac.kr
+- 고려대학교 경영대학,www.s3-asiamba.com
+- 고려대학교 VLSISP Lab.,vlsisp.korea.ac.kr
+- 고려대학교산학협력단,kukistschool.korea.ac.kr
+- (주)시루산,siru.co.kr 
+- 경희대학교 경영대학원,wamp.khu.ac.kr
+- 고려대학교 전기전자공학부,ee.korea.ac.kr
+- 경주시장애인체육회,gyeongjusad.or.kr
+- 고려대학교 차세대통신학과,ce.korea.ac.kr
+- 유한메카트로닉스(주),mall.yu-han.co.kr
+- (주)이솝,ysop.co.kr
+- (주)이솝,mall.ysop.co.kr
+- 삼주공인노무사사무소,sjoffice.co.kr
+- 고려대학교 대학원혁신본부,graduate.korea.ac.kr
+- 대한제지(주),www.daehanpaper.com
+- 군자출판사(주),www.medicalpictures.co.kr
+- 군자출판사(주),www.mediteriumart.com
+- 군자출판사(주),www.mediteriumart.co.kr
+- (주)텔레컨스,mcon-service.azurewebsites.net
+- (주)스펙트럼케이유,spectrumku.com
+- (사)한국심리학회,koreanpsychology.or.kr
+- (주)파블로항공,www.pabloair.com
+- 성우안보전략연구원,www.starflag.or.kr
+- 경희대학교 (AMP),ceo.khu.ac.kr
+- (주)세문,semun.co.kr
+- 고려대학교 기업산학연협력센터,uric.korea.ac.kr
+- (주)하나일렉트릭,www.hnec.co.kr
+- 고려대학교 건축학과 교우회,kua1964.kr
+- 안양대학교 평생교육원,ay.fiart.kr
+- (사)국제경영원,newhrd.net
+- (주)에스에이치글로벌,hrms.shglobal.kr
+- 고려대학교 경영대학,biz.korea.ac.kr/cdc/main/main.html
+- 서울대학교 SSBT (차세대이차전지),ssbt.snu.ac.kr
+- 성준전기(주),sungjoon.co.kr
+- (사)한국의료행정실무협회,simsa.fiart.kr
+- (주)인휴,ih.inhuedeco.co.kr
+- (주)하나일렉트릭,mall.hnec.co.kr
+- 한국과학기술출판협회,kstpa.or.kr
+- 고려대학교 KU-KIST융합대학원,kukistschool.korea.ac.kr
+- 한국출판인산악회,kpmclub.com
+- 더푸짐주식회사,deopujim.com
+- (사)성무안보연구소,www.srins.re.kr
+- 아티크스튜디오 주식회사,artiquestudio.co.kr
+- 롯데베르살리스 엘라스토머스㈜,lvelastomers.com
+- 경희대학교 빅데이터응용학과,bk21bigdata.khu.ac.kr
+- 명지전문대학 조기취업형계약학과,early.mjc.ac.kr
+- 고려대학교 인권·성평등센터,humanrights.korea.ac.kr
+- 성준전기(주),mall.sungjoon.co.kr 
+- 명지전문대학 평생교육원,sv80.fiart.kr
+- 한국과학기술출판협회,mall.kstpa.or.kr 
+- 한국소비자광고심리학회,kscap.co.kr
+- 티케이엘리베이터코리아(주)-IGAD,igad-dev.tkek.co.kr
+- 티케이엘리베이터코리아(주)-IGAD,rigad-dev.tkek.co.kr
+- (주)에이치티엠,internet-korea.kr/m/main/main.html
+- 에이치디현대오일뱅크(주) 서울지점,oilbank.fiart.net
+- 고려대학교 지속가능원,kusr.korea.ac.kr
+- 다스코리아(주),daskorea.co.kr
+- 디에스인터내셔널(주),duckshinint.com
+- 명지전문대학 MRCC,mrcc.mjc.ac.kr
+- 명지전문대학 MRCC,mrcc.fiart.net
+- 고려대학교 공과대학,eng.korea.ac.kr
+- (주)쉬스케미칼컨설팅,loa.sheschem.com
+- 명지전문대학 평생교육원,baseball.mjc.ac.kr
+- 고려대학교의료원 (부정맥),korea-heartrhythm.com
+- 다스코리아(주),110.45.213.175
+- 경희대학교 총동문회(경영대학원),
+- 공군인터넷전우회(로카피스),kafi.fiart.net
+- 고려대학교 미디어대학,mediacom.korea.ac.kr
+- 서울시광역심리지원센터,koreanpsychology.or.kr/mind/introduction.html
+- 고려대학교 경영대학,esg.korea.ac.kr
+- 고려대학교 경영대학,www.aicg.org
+- 현대네트웍스(주),flucare.co.kr
+- (주)에스엔유티씨엔티,snutcnt.com/
+- (주)엘제이하이테크,lj-hitech.co.kr
+- (주)현대리바트,https://shop.oilbankbiz.com/
+- 고려대학교 지속가능원,kusso.korea.ac.kr 
+- (재)한국문화예술진흥재단,koracf.or.kr
+- (주)에스엔유티씨엔티,sekmall.co.kr
+- 고려대학교 기계공학부,me.korea.ac.kr
+- 서울대학교 Advanced Energy Materials Lab,energylab.snu.ac.kr
+- 서울대학교 SSRT,ssrt.snu.ac.kr
+- (주)덕신하우징,dukshinepc.com
+- 고려대학교의료원,korea-heartrhythm.com
+- (주)비포시스템,bfsystem.kr
+- 티케이엘리베이터코리아(주)-TIS,customer.tkek.co.kr
+- (주)덕신하우징(전자입찰),dukshinepc.com
+- (사)한국경영과학회,komsri.kr
+- (사)한국경영과학회,komsri.co.kr
+- (사)한국경영과학회,komsri.or.kr
+- (주)비포시스템,bfsystem.kr/BIMS
+- 서울대학교 Advanced Energy Materials Lab,
+- 군자출판사(주),smarteduk.fiart.net
+- 경희대학교 경영연구원,mri.khu.ac.kr
+- 주식회사 비앤드브이,bnv.fiart.net
+- 고려대학교 건축학과,archi.korea.ac.kr
+- (사)로카피스생활체육회,rokafis.com
+- (주)비포시스템,bfsystem.kr/KFCC/login.htm
+- (주)비포시스템,be4.co.kr
+- (재)에이치디현대희망재단,hdhyundaihope.org
+- (주)모노커뮤니케이션즈,
+- 고려대학교 보건과학대학,chs.korea.ac.kr
+- 고려대학교 보건과학대학,bmeng.korea.ac.kr
+- 고려대학교 보건과학대학,bsm.korea.ac.kr
+- 고려대학교 보건과학대학,hes.korea.ac.kr
+- 고려대학교 보건과학대학,hpm.korea.ac.kr
+- 더푸짐주식회사,inifood.co.kr
+- (주)비포시스템,mgit.co.kr
+- 고려대학교 건축학과,
+- 명지전문대학 평생교육원,early.mjc.ac.kr
+- 명지전문대학 야구심판양성과정 ,baseball.mjc.ac.kr
+- 주식회사 비앤드브이,floorcovering.co.kr 
+- 서울시광역심리지원센터,mt.koreanpsychology.or.kr
+- (주)정안건설,jaenc.kr
+- 고려대학교 공학대학원,enggra.korea.ac.kr
+- 고려대학교 공학대학원,ceo.korea.ac.kr
+- 고려대학교 의과대학,kumstp.korea.ac.kr
+- 고려대학교 MRC 마이오카인 융합연구센터,myokinemrc.korea.ac.kr
+- 경희대학교 경영연구원,mri.fiart.net
+- 명지전문대학 조기취업형계약학과,early.fiart.net
+- 고려대학교 미디어대학,mediacom.fiart.net
+- (주)덕신이피씨,duckshin.com
+- 주식회사 비앤드브이,flooringcatalogue.com
+- (사)한국심리학회 재난심리위원회,dp.koreanpsychology.or.kr
+- (주)덕신하우징,dukshinhousing.com
+- 고려대학교 의과대학,kumstp.fiart.net
+- (주)에이엔케이이노베이션,ankinnovation.com
+- (주)정안건설,erp.jaenc.kr
+- (주)덕신이피씨,duckshin.com
+- (주)덕신이피씨,duckshinepc.com
+- (주)덕신이피씨,dukshinepc.com
+- 티케이엘리베이터코리아(주)-TIS,igad-dev.tkek.co.kr
+- (사)한국의료행정실무협회,simsa.fiart.net
