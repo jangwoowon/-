@@ -4,20 +4,20 @@
 
 ## 🛠️ 환경 및 스택
 
-PHP 5 ~ 8 버전대  
+PHP 5 ~ 8
 MySql
 Linux
 Apache
  
-- [SEKMALL](https://sekmall.com) / 메인 담당자
+- [SEKMALL](https://sekmall.com) / 메인 담당자 <br>
   → B2B 쇼핑몰로 전체적인 개발 작업 진행, DBMS 관리자 페이지, 사용자 페이지, 할인 구간, 쿠폰, 상품 관리, 간단한 게시판, 이카운트 연동 등 개발 진행
-- [더푸짐](https://deopujim.com) *호스팅 종료* / 메인 담당자
+- [더푸짐](https://deopujim.com) *호스팅 종료* / 메인 담당자 <br>
   → B2C 쇼핑몰로 전체적인 개발 작업 진행, DBMS 관리자 페이지, 사용자 페이지, 할인 구간, 상품 관리, 간단한 게시판, 간편 로그인(카카오,네이버), 카카오 알림 발송 등 개발 진행
-- [한국심리학회](https://koreanpsychology.or.kr) / 서브 담당자
+- [한국심리학회](https://koreanpsychology.or.kr) / 서브 담당자 <br>
   → 프로젝트 참여 모학회 웹사이트로 모학회, 분과학회 대략 5~6만명 회원 등급 및 연회비, 가입비 등 관리 및 결제 시스템, 행사 지원 관리 등 개발 진행
-- [명지대학교KBO야구심판양성과정](https://baseball.mjc.ac.kr) / 메인 담당자
+- [명지대학교KBO야구심판양성과정](https://baseball.mjc.ac.kr) / 메인 담당자 <br>
   → 교육 관련 홈페이지로 회원(학생) 가입 및 관리, 교육 과정 개설 및 신청, 게시판, 자격증 발급 등 개발 진행
-- [스펙트럼KU](https://spectrumku.com) / 메인 담당자
+- [스펙트럼KU](https://spectrumku.com) / 메인 담당자 <br>
   → 교육 관련 홈페이지로 회원 가입 및 관리, 강의 개설 및 신청, 이니시스 및 페이팔 API 연동 구축, 자격증 발급 및 출력 등 개발 진행
 
   
